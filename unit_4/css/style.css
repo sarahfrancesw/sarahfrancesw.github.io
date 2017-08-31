@@ -19,6 +19,11 @@ font-family:'Syncopate', sans-serif;
 	font-size: 14px;
 }
 
+figure{
+    border-radius:50%;
+    overflow:hidden;
+}
+
 ul{
 text-align: center;
 list-style-type: none;
