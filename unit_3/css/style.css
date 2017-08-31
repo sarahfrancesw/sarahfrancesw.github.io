@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Ovo|Syncopate');
-</style>
+@import url('https://fonts.googleapis.com/css?family=Antic+Slab|Syncopate');
 
 body {
 background: rgb(174,243,255);
-font-family: 'Ovo', serif;
+font-family: 'Antic Slab', serif;
 color: rgb(41,41,41);
 text-align: center;
 }
