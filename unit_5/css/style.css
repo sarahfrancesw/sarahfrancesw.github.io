@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Ovo|Syncopate');
+
+body {
+background: rgb(174,243,255);
+font-family: 'Ovo', serif;
+color: rgb(41,41,41);
+text-align: center;
+}
+
+#wrapper {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+
+#top-bar {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+h1 {
+font-weight: bold;
+font-size: 48px;
+text-transform: uppercase;
+font-family:'Syncopate', sans-serif;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 14px;
+}
+
+#paragraph {
+	background-color: blue;
+	border: 1px black solid;
+	padding: 1px;
+}
+
+#bottom-bar {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#contactme {
+	font-weight: bold;
+}
