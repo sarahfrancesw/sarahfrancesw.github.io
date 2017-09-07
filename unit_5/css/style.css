@@ -8,18 +8,18 @@ text-align: center;
 }
 
 #wrapper {
-	background-color: #FFE2B8;
+	background: #FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
 
 #upper-bar {
-	background-color: #E8C66A;
+	background: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
 }
 
 header {
-	background-color: #FFED74;
+	background: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
 }
@@ -43,7 +43,7 @@ font-family:'Syncopate', sans-serif;
 }
 
 #bottom-bar {
-	background-color: #E8C66A;
+	background: #E8C66A;
 	border: 1px black solid;
 	padding: 20px;
 }
