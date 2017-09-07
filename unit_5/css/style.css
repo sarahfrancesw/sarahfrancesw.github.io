@@ -34,6 +34,7 @@ font-family:'Syncopate', sans-serif;
 #slogan {
 	font-style: italic;
 	font-size: 14px;
+	border: 1px black solid;
 }
 
 #paragraph {
