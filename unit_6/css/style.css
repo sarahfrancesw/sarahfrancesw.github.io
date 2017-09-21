@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Ovo|Syncopate');
 
 body {
-background: rgb(174,243,255);
-font-family: 'Ovo', serif;
-color: rgb(41,41,41);
-text-align: center;
+	background: rgb(174,243,255);
+	font-family: 'Ovo', serif;
+	color: rgb(41,41,41);
+	text-align: center;
 }
 
 #wrapper {
@@ -26,16 +26,16 @@ header {
 }
 
 h1 {
-font-weight: bold;
-font-size: 48px;
-text-transform: uppercase;
-font-family:'Syncopate', sans-serif;
+	font-weight: bold;
+	font-size: 48px;
+	text-transform: uppercase;
+	font-family:'Syncopate', sans-serif;
 }
 
 #two_column {
-background-color: #FFB7CF;
-border: 1px black solid;
-padding: 20px;
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 #slogan {
