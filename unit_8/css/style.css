@@ -110,6 +110,9 @@ h1 {
 		line-height: 1.4em;
 		font-size: 0.9em;
 	}
+	#sfw_pic{
+		float: center;
+	}
 }
 
 @media screen and (max-width: 532px) {
@@ -142,5 +145,8 @@ h1 {
 		display: inline;
 		line-height: 1.2em;
 		font-size: 0.9em;
+	}
+		#sfw_pic{
+		float: center;
 	}
 }
