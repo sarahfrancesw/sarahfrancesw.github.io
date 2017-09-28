@@ -111,6 +111,7 @@ h1 {
 		font-size: 0.9em;
 	}
 	#sfw_pic{
+		display: inline;
 		float: center;
 	}
 }
@@ -146,7 +147,8 @@ h1 {
 		line-height: 1.2em;
 		font-size: 0.9em;
 	}
-		#sfw_pic{
+	#sfw_pic{
+		display: inline;
 		float: center;
 	}
 }
