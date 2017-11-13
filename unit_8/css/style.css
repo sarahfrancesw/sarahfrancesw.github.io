@@ -27,7 +27,6 @@ body {
 
 header {
 	background: white;
-	border: 1px none;
 }
 
 h1 {
@@ -91,6 +90,8 @@ h1 {
 #bottom-nav-a {
 	padding: 0px 10px;
 	font-size: 0.8em;
+	text-decoration: none;
+	color: grey;
 }
 
 @media screen and (max-width: 1045px) {
